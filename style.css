@@ -1,0 +1,54 @@
+/*********************TAG selectors*********************/
+body
+{
+background-color:powderblue;
+}
+h1
+{
+  background-color: #f0ffff;
+  color:#66BFBF;
+}
+
+h3
+{
+
+
+  background-color: #f0ffff;
+  color:#66BFBF;
+}
+h2
+{
+  background-color: #f0ffff;
+  color:#66BFBF;
+}
+hr
+{
+
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #66BFBF;
+  border-width: 7px;
+
+}
+.age
+{
+  accent-color : navy ;
+  width: 15px;
+  height: 15px;
+}
+
+/****************************Class Selectors***************************/
+.bhavarth
+{
+  height :180px;
+  width: 170px;
+  background-color: powderblue;
+}
+
+.kanha
+{
+  height:200px;
+}
+/*class can be used multiple times but id can only be used once  */
+/****************************ID SELECTORS ******************************/
+/* we use id selectors using # id_name *********************************/
